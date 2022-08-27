@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "855940616320",
+    "project_id": "login-assessment-62998",
+    "storage_bucket": "login-assessment-62998.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:855940616320:android:f766c3778d58813f225665",
+        "android_client_info": {
+          "package_name": "com.example.login_assessment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "855940616320-rt97titpc851qk34b7oehde9ltrpaej2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfLRSulvoTVero57dbGa5EkhMqWj1RGZA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "855940616320-rt97titpc851qk34b7oehde9ltrpaej2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
